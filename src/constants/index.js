@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  dalle,
+  ai,
+  getrich,
 } from "../assets";
 
 export const navLinks = [
@@ -259,6 +262,69 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/AdeshDaniel/travel-companion",
+  },
+  {
+    name: "Dalle Clone",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "reactJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "RestApi, MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: dalle,
+    source_code_link: "https://github.com/AdeshDaniel/dalle_clone",
+  },
+  {
+    name: "AI Summarizer",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "reactJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "RestApi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ai,
+    source_code_link: "https://github.com/AdeshDaniel/ai_summerizer",
+  },
+  {
+    name: "GetRich Food UI",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "reactJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "UI/UX",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: getrich,
+    source_code_link: "https://github.com/AdeshDaniel/restaurant_ui",
   },
 ];
 
