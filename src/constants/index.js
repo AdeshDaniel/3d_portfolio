@@ -120,10 +120,10 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    company_name: "Websites",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2019 - Till Date",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -149,7 +149,7 @@ const experiences = [
     company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - Till Date",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -159,7 +159,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "E-Markets",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
@@ -176,25 +176,25 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    name: "Client",
+    designation: "Manager",
+    company: "Business Owner",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+    name: "Client",
+    designation: "CEO",
+    company: "Business Owner",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
       "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    name: "Client",
+    designation: "CEO",
+    company: "Business Owner",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
@@ -273,7 +273,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "RestApi, MongoDB",
+        name: "restApi, mongoDB",
         color: "green-text-gradient",
       },
       {
@@ -294,7 +294,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "RestApi",
+        name: "restApi",
         color: "green-text-gradient",
       },
       {
@@ -315,7 +315,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "TailwindCSS",
+        name: "tailwindCSS",
         color: "green-text-gradient",
       },
       {
