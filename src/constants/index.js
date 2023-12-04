@@ -175,15 +175,15 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Daniel proved me wrong.",
     name: "Client",
     designation: "Manager",
     company: "Business Owner",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/men/7.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Daniel does.",
     name: "Client",
     designation: "CEO",
     company: "Business Owner",
@@ -191,11 +191,11 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Adesh Daniel optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Client",
     designation: "CEO",
     company: "Business Owner",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/men/30.jpg",
   },
 ];
 
