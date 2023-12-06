@@ -158,7 +158,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Daniel proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Texedev tech proved me wrong.",
     name: "Client",
     designation: "Manager",
     company: "Business Owner",
@@ -166,7 +166,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Daniel does.",
+      "I've never met a web developer who truly cares about their clients' success like Texedev Company does.",
     name: "Client",
     designation: "CEO",
     company: "Business Owner",
@@ -174,7 +174,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Adesh Daniel optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Texedev optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Client",
     designation: "CEO",
     company: "Business Owner",
